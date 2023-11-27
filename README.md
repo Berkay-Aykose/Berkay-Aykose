@@ -8,14 +8,14 @@
 
 - 🤝 I’m looking for help with **Kotlin**
 
-- 💬 Ask me about: **.NET, ASP.NET, Android**
+- 💬 Ask me about. **.NET, ASP.NET, Android**
 
 - 📫 How to reach me. **berkay_ayk@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/berkay-aykose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="berkay-aykose" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/berkay veysel ayköse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay veysel ayköse" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/berkay-veysel-ayköse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay-veysel-ayköse" height="30" width="40" /></a>
 <a href="https://instagram.com/berkay_ayk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkay_ayk" height="30" width="40" /></a>
 </p>
 
